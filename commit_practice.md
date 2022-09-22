@@ -24,5 +24,5 @@
    - 이유 : commits to repository
 
 5. Commit ID는 중복 가능하다. (맞으면 O, 틀리면 X)
-   - 답 :
+   - 답 : O
    - 이유 :
