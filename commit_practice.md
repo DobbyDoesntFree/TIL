@@ -129,6 +129,8 @@ $ rm -r test
 - 마크다운의 본질은 글에 역할을 부여하는 것이다.
 - 반드시 역할에 맞는 마크다운 문법을 작성한다. 글씨를 키우고 싶다고 해서 본문에 제목의 역할을 부여하면 안된다.
 
+---
+
 #### 참고 자료
 
 - [Markdown Guid](https://www.markdownguide.org/basic-syntax)
