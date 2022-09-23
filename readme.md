@@ -19,6 +19,8 @@
 - 1일 1커밋 하기
 - 이동욱님 Github 계정 https://github.com/jojoldu
 
+---
+
 ### CLI
 
 > CLI (Command Line Interface, 커맨드 라인 인터페이스)는 터미널을 통해 사용자와 컴퓨터가 상호 작용하는 방식을 뜻한다.
@@ -84,6 +86,8 @@ $ rm -r test
 
 #### 마크다운의 장점과 단점
 
+---
+
 1. 장점
    - 문법이 직관적이고 쉽다.
    - 지원 가능한 플랫폼과 프로그램이 다양하다.
@@ -99,7 +103,7 @@ $ rm -r test
 #### 참고 자료
 
 - [Markdown Guid](https://www.markdownguide.org/basic-syntax)
-- [마크다운 문법 정](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+- [마크다운 문법 정리](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 # Git 3공간
 
@@ -109,6 +113,6 @@ $ rm -r test
 
 1. git init(dir 당 한번, 최상위 바탕화면에서 하지 말기)
 2. git stauts
-3. git add
+3. git add (staging, index added)
 4. git commit -m "Comment"
 5. config 설정
